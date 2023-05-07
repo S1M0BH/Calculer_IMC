@@ -1,6 +1,7 @@
+# IMC Calculator
 
-IMC Calculator
-Overview
+# Overview
+
 IMC Calculator is an Android application that calculates the Body Mass Index (BMI) of a person based on their height and weight. It also stores the calculated IMC values in a database for future reference.
 
 Features
